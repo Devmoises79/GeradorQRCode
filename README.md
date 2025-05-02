@@ -21,6 +21,7 @@ Este é um aplicativo web simples feito com [Streamlit](https://streamlit.io/) q
 ```bash
 git clone https://github.com/seuusuario/gerador-qr-code.git
 cd gerador-qr-code
+´´´
 
 ## 2. Instale as dependências 📄
 python -m venv venv
