@@ -9,10 +9,6 @@ Este é um aplicativo web simples feito com [Streamlit](https://streamlit.io/) q
 - Visualização da imagem gerada
 - Botão para download do QR Code (.png)
 
-## 📷 Exemplo de uso
-
-![exemplo](https://user-images.githubusercontent.com/placeholder/exemplo_qrcode.png)  
-*Exemplo ilustrativo da interface do app*
 
 ## 🚀 Como executar localmente
 
@@ -21,7 +17,7 @@ Este é um aplicativo web simples feito com [Streamlit](https://streamlit.io/) q
 ```bash
 git clone https://github.com/seuusuario/gerador-qr-code.git
 cd gerador-qr-code
-´´´
+```
 
 ## 2. Instale as dependências 📄
 python -m venv venv
