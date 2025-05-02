@@ -20,11 +20,11 @@ cd gerador-qr-code
 ```
 
 ## 2. Instale as dependências 📄
-python -m venv venv
-source venv/bin/activate  
+- python -m venv venv
+- source venv/bin/activate
+  
 # No Windows: venv\Scripts\activate
 pip install -r requirements.txt
-
 
 ## 3. Execute o aplicativo ✔
 
